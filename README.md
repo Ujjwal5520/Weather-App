@@ -1,6 +1,6 @@
-# CrytoCurrency Application
+# Weather App
 
-A web application that track the status of various Crytocurrrency around the world in real time.
+A web application that shows the current temperature and weather of a place using fetch APIs
 
 # Live Link
 ```
